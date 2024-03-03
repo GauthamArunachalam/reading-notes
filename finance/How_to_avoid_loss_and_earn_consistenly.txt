@@ -1,0 +1,48 @@
+How to avoid loss and earn consistently in the stock market - Prasenjit paul
+- Return on equity (ROE)
+	- 2 companies with similiar background the company with higher ROE can be consideres as a better company
+- Economic Moat / Competitive advantage
+	- Companies with competitive edge are considered better company and can have better economic edge over its compitiators
+	- Moat can be anything switching cost / network effect etc.,
+- Debt
+	- Debt is very dangerous for any companies. To measure the risk of leverage we can use different leverage ratios
+	- Debt to equity ratio mesures ratio of debt levels to the equity
+		- If a debt to equity ratio is 1 then for every 1 ruppee of equity the company has 1 ruppee of loan. If it is greather then 1 company owns more then 1 rs of loan for every 1 rs of equity
+- Shareholding pattern
+	- Promoter holding should be high
+	- If promoter holding increases its a good sign if it decreases it is a bad sign for the company
+	- Promoters pledging their shares is a made sign for the company
+	- Same like promiter holding if a FII increases its holding in a company it is a good sign of the companies future
+- Dividend history
+	- Increasing dividend rate year on year is a good sign for the company
+	- It is important to take a deep dive to know if the dividends are paid from income / existing cash balance / by loan. The first one is a good sign while othe other 2 are signs of bad times for company
+- Price to Earnings
+	- Compares the current price of the company with its latest earnings report
+	- It is best to compare of historic PE average
+	- If the current PE is less then the average or in the lower band of the PE for the last 3 years. It can be considerd as buying oppurtunity. If it near the higher band then it can be consider as a seeling oppurtunity
+	- But PE ratio can be altered with accounting tricks by the company
+- Price to sales
+	- Compares the current price to total sales of the company
+	- PS ratio cannot be considered as profits as we cannot be sure about the profit margins on those sales
+- Price to book
+	- It compares the current price of the company to its total net worth (total income - total expenditure)
+	- This is useful of Banking and NBFC
+- When to sell the stocks?
+	- Better oppurtunies availabe
+	- Wrong buying decision
+	- Valuation is overstretched
+	- Change in fundamentals
+	- Change in management
+	- pre defined exit stratergy
+- Diversification
+	- Too many stocks in the portfolio makes tracking the stocks difficult
+	- Too many stocks can negatively affect the total returns
+
+- A quick formula suggested by book
+	- Last 3 years ROE / ROCE are both greater then 20% and not on a continous decline trend
+	- Debt to equity ratio is less then 1
+	- Promoters pledge is less then 10% of their holding
+	- Last 3 years CAGR sales growth is more then 10%
+	- Last 3 years CAGE profit growth is less then 12%
+	- Company valuation
+	- Last 2 years price movement not in a contineous down trend
