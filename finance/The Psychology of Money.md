@@ -48,7 +48,34 @@ The Psychology of Money - Morgan Housel
 - The concept of retirement is just 2 decades old, until world war 2 people worked until they died.
 - Index funds are just 50 years old and hedge funds are just 25 years old so we do not have a very big historical data to back and help us make informed decision
 
+# Luck and Risk
 
+- Nothing is as good or as bad as it seems.
+- Luck and risk are both the reality that every outcome in life is guided by forced other than individual efforts.
+- Bill Gates went to one of the only high schools in the world that had a computer Lakeside School in Seattle.
+- In 1968 there were 303 million high school students in the world, 18 million in the US, 270,000 in Washington, 100,000 in Seattle, 300 in Lakeside school
+- In in a million high school students attended the high school that had the combination of cash and foresight to buy a computer. Bill Gates happended to be one of them
+- Luck and risk happens because life is to complex to allow 100% of your actions to dicate 100% of your outcomes
+- You are one person in a game with seven billion other people and infinite moving parts. The accidental impact of actions outside of your control can be more consequential than the ones your consciously take
+- Both Luck and risk are hard to measure and hard to accept
+- The economist Robert Shiller says that one of the most important ascpect to think is "The exact role of luck in successful outcomes"
+- When judging others, attributing success to luck makes you look jelouse and mean, even if we know it exists. And when judging yourself, attributing success to luck can be too demoralizing to accept
+- Economist Bhashkar Mazumder has shown that incomes among brothers are more correalted than height or weight. (That is one person is right and tall it is more likely his brother is rich than he is tall)
+- The quality of education we recieve and the doors that open for use depends hevialy upon the socioeconmic status of our parents
+- As like success, failure is also hard to determine where it is due to a serious of bad decisions or did we just end up on the side of risk
+- For eg. if we buy a stock and 5 years later is goes nowhere. It's possible that can be bad decision or a good decision with 80% change of making money but it happened to end up on the 20% side
+- Statiscially calculation every decision in lift is not possible
+- We judge someone else failure to be caused by bad decisions but our own failures are counted to the dark side of risk. Our brain comes up with narratives for our own failures while for others we tend to mark it as bad decision
+- News does not cover a investor good decision which ended up in the side of risk but covers okish or bad decision which ended up on the side of luck. So we cannot learn from these lessons as we do not know the propotion of luck in those stories
+- The business man Cornelius Vanderbilt and Johb D Rockefeller run their business by avoiding outdated laws. They are formally known as successfull businessman. But thier stories can be flipped if the law acted upon them and their ventures where closed
+- So it is hard to say if it is their sage wisdom or did they end up on the side of luck
+- People praise Mar Zuckerberg as genius for turing down Yahoo's offer of 1 Billion in 2006, while they critise for Yahoo's turning down its buyout of Microsoft while they can not have predicted this at that time
+- Risk, luck and skill can never be pin pointed readily obseved
+- **Be careful who you prise and admire. Be careful who you look down upon and wish to avoid becoming.**. Keep in mind not 100% of our outcomes can be attributed towards effort and decisions
+- **Focus less on specific individuals and case studies and more on broad patterns**
+- Studying individuals is risks as we tend to only see exterme examples like CEO's or exterme failure situations covered in news
+- The more extrement the outcome higher the probaility it is influenced by extreme luck or risk. So applying thier example in our lives is not possbile
+> ***To get actionable takeways we need to look the broad patterns of success and failures.*** 
 
 
 # Vocabulary
