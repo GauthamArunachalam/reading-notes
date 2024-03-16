@@ -108,6 +108,26 @@ The Psychology of Money - Morgan Housel
 
 - 81.5 Billion of Warrent Buffets 84.5 billion net worth came after this 65th birthday. Our minds are not built to handle such absudities
 - Lessons from one field can often teach us something important about unrelated fields
+- The understanding of our planet we have is very young and new. Only in the 19th century we where able to discover was not one ice age but 5 distinct ones based on the evidence that can be found across the world
+- The amount of energe required the freeze the planet and melt it anew and repeat this in cycles in staggering and scients wondered it and created many possible theories for this
+- One theory suggested that the raising of mountain ranges affected the wind flows to range to change the climate and onther suggested that ice is the natural state and volcanic eruptions warmed us up. But these are distince events and does not explain the cause of thing going in cycles. This on of events can be accepted if there was only one ice age but it goes on cycles
+- A Serbian scientist studies and suggested due to the tilt of the earth towards the sun due to sun and moons gravity, the hemisphers get a little more or little less solar radition and this caused ravenous winters that can freeze the planet
+- A russian scientist later reserched on top this and discovered it was moderate summers that where the cause and start of the ice age. It starts when a summar never gets warm enough to melt all the snow of the previous winter. The leftover ice acts as base for more snow to accumulate the winter and this know reflects the sun rays and brings down more snow the next winter and in few years a bed of ice berg  is formed starting an iceage. This same process happens in reverse a summer with a bit higher sunligt melts extra snow brining extra warming year on year to end an iceage
+- **We don't need tremendous force to create tremendous results**
+- If something compounds a small starting base can lead to results sp extrodianry they seem to defy logic
+- Buffett's fortune isn't due to just being a good investor, but being a good investor since he was a child
+- Consider the expirement Buffett started his investment at the age of 30 and with a capital of 25000 dollors and generated the same growth of 22% annually and he decided to retire at the age 60 from investment his net worth would have only been 11.9 Million against his current 84.5 Billion
+- Effectiverly Buffett financial successs can be tied to the financial base he built in his pubescent years and the longevity he maintained through these years. **His skills is investing, but his secrete is time**
+- Jim Simons the hedge fund manager of Renaissance Tech as generateed 66% return since 1988. He generated better returns in Buffet but his net worth now is just 21 billion. The reason for this he started his investments only at his 50's. If he had the same time as Buffet his worth could be 63 Quintillion
+- What seems like a small change in growth assumptions can lead to ridiculous, impractival numbers, So when we are studying this numbers we overlook the key drivers for this success
+- Our brains are wired to think lineraly and not exponentialy.
+- One of the best example of this is in 1950's IBM created a hard drive with 3.5 megabyte and over the years we have increased the storeage capaity to 100 terabytes in 2019 a multiple of 30 million times
+- As compounding is not intuitive we often ignore its potential and focus on solving problems through other means. Not because we are overthinking, but we rarely stop to consider compounding potential
+- **Good investing int's necessarily about earning the highest returns, because the higest returns thend to be one off hits that can't be repeared. Its about earning pretty good returnes that you can stick with and which can be repeated for the longest period of time**
+
+# Getting Wealthy (VS.) Staying Wealthy
+
+- Good investing is not necessarily about making good decisions. It's about consistently not screwing up.
 - 
 
 
@@ -117,3 +137,4 @@ The Psychology of Money - Morgan Housel
 2. incredulously - In a manner indicating disbeleif
 3. insatiable - impossible to satisfy
 4. Confound - Cause suprise in someone, especially by not accoring with thier expectations
+5 ravenous - extremely hungry (or) very great; voracious
