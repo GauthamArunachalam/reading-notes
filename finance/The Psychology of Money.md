@@ -77,9 +77,43 @@ The Psychology of Money - Morgan Housel
 - The more extrement the outcome higher the probaility it is influenced by extreme luck or risk. So applying thier example in our lives is not possbile
 > ***To get actionable takeways we need to look the broad patterns of success and failures.*** 
 
+# Never Enough
+
+- We as people never have limits on what enough entitles to us. We always expect more push our luck
+- From the stories of Rajesh Guptha and Mernie Madoff we can see even people who have enermous wealth try to do fradulent things to earn big due to thier greed
+- A Crime commited be poverty is a different story but one commited by people with everything does not make sense. We also have non criminal versions of stories where people with good wealth lost everything due to thier greed
+- The hedge fund long term capital mangement was staffed with traders worth 10 to 100 millions. They invested their cash in thier own company lost everything in 1998 in a middle of a strong bull market
+> ***"To make money they didn't have and didn't need, they risked what they did have and did need. And that's foolish. It is plain foolish. If you risk something that is important to you for something that is unimportant to you, it just does not make any sense" - Warren Buffet***
+- There is no reason to risk what you have and need for what you don't have and don't need
+- **The hardest financial skill is getting the goalpost stop moving**
+    - If expectations raise with results there is no logic in striving for more because you'll feel the same after putting in extra effort
+    - Allowing your goalpost move, makes you feel as if you are falling behind, and the way to catchup is take more and more risk
+    - Life's isn't any fun without a sense of enough
+    - Happiness, as it's said, is just results minus expectations
+- **Social Comparison is the problem here**
+    - We always tend to compare our salries with people higher up the ladder and envy them and wish to get that salary 
+    - The ceiling of social comparison is so high that virtually no one will ever hit it.
+    - It is a battle that can never be won or the only way to win is to not fight to begin with. To accept that you might have enough, even if it's less than those around you
+    - As it is said by a casino dealer - "The only way to win in a Las Vegas casion is to exit as soon as you enter". This is the exact same story for comparing peoples wealth
+- **Enough is not too little**
+    - The idea od having enough can look conservative, leaving opportunity and potential on the table. But its the opposite, an insatiable appetiate for more will push you to the point of regret
+    - People will not stop reaching for more unless they break or forced to. This can ranging from burining out at work to having a risky investment allocation that cannot be managed
+    - The inability to deny potential dollor will eventually catch up to you
+- **There are many things never worth risking, no matter the potential gain**
+    - Reputation, freedom, independence, family, friends, happiness are invaluable
+    - The best way to keep these things are knowing when its time to stop taking risks that might harm them
+    - Knowing when you have enough
+
+# Confounding Compounding
+
+- 81.5 Billion of Warrent Buffets 84.5 billion net worth came after this 65th birthday. Our minds are not built to handle such absudities
+- Lessons from one field can often teach us something important about unrelated fields
+- 
+
 
 # Vocabulary
 
 1. apropos - very appropriate to a particular situation
 2. incredulously - In a manner indicating disbeleif
-3. 
+3. insatiable - impossible to satisfy
+4. Confound - Cause suprise in someone, especially by not accoring with thier expectations
