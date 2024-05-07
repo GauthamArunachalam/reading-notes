@@ -25,8 +25,44 @@
 - While writing the book the author corresponded with hundreads of educators and professors across various disciplies and understood that these learning techniques are widely used by almost all these educators while they where learning and asking their studens to to do the same. As these things look very simple or counterintutive they felt they where not able to convey it clearly
 
 
+# Easy does it : Why trying too hard can sometimes be part of the problem
 
+> **Prime up your mental pump**
+> While trying to learn a new chapter in book it helps first to take a mental picture walk of the chapter, glancing at the pictures, diagrams, headings and questions in the chapter. This is like creating neural hooks to hang your thinking on, making it easier to grasp the concepts
 
+## Focused versus Diffuse thinking
+
+- The brain switches between two different types of networks. - ***highly attentive*** state and more relaxed ***resting state*** networks. We call the thinking processes related to these two different types of networks the focused mode and diffuse mode.
+- These 2 modes are important for learning. We frequently switch back forth between these modes throughout the day. At a time we can only be in one mode of thinking we cannot be in both the modes.
+- Diffuse mode can work on things in the background that we are not actively focusing on.
+- Focused mode is essential for learning math and science. It involves directly with problem solving using rational, sequential and analytical approches.
+- Focues mode is associated with concentrating abilities of the prefrontal cortex.
+- Diffuse mode thinking is also required for learning. 
+- Diffuse mode usually provides valuable insights to the problems that we are struggling to solve.
+- Diffuse mode thinking is what happens when we relax our brain and let it to wander. This allows different areas to hoolup and bring up valuable insights. Like focued mode, diffuse mode is not linked to single part of the brain. It is diffused through out the brain.
+- Diffuse mode insights often flow from the preliminary thinking that's been done in focues mode (***The diffuse mode must have clay to make bricks***)
+
+## The Focuesed Mode - A tight pinball machine
+
+- **Metaphors are powerfull tools to learn new concepts**
+- Consider your brain as a pinball machine. The ball that is been relased by the spring is your thought. The rubber bumpers in the pinball machines are different neural networks across your brain. Each bump with the rubber bumper is a neural network triggering.
+- In focued mode the neural network bumpers are very close to each other and diffuse mode they are fart apart.
+- The close bumpers mean we can have precise thoughts. Focused mode concentrate on something that is already familir to us and the things we have a good understaning of. (**In other works focused mode triggers network in a segment that is very close the concept you already know and assume can solve this problem**)
+- Focused mode tries to find paths that we already practices and experienced, for eg. doing multiplication, learning grammer of a new language etc.,
+- When we focus on something the prefrontal cortex sends signals along neural paths. This signals link different parts of the brain that are associated with what we are thinking.
+- This signal process is like a octopus trying to reach and fiddle around its surroundings. As octupus as limmited tentacles our brain  to can only process a limited amount of things in out brains **working memory**
+
+<img src="./A_mind_for_numbers/FocusAndDiffuseAsPinball.png"/>
+
+>As an example of this, note the upper “thought” that your pinball first bounces around in on the left-hand image. It is very far away and completely unconnected from the lower pattern of thought in the same brain. You can see how part of the upper thought seems to have an underlying broad path. This is because you’ve thought something similar to that thought before. The lower thought is a new thought—it doesn’t have that underlying broad pattern. The diffuse approach on the right often involves a big-picture perspective. This thinking mode is useful when you are learning something new. As you can see, the diffuse mode doesn’t allow you to focus tightly and intently to solve a specific problem—but it can allow you to get closer to where that solution lies because you’re able to travel much farther before running into another bumper.
+
+- While encountering a problem we focus our attentions to words be reading the book or lecture notes and let our attentional octopus activate your focused mode. As we do our initial noodling with the problem we think tightly using the close pinball bumpers to find and follow a neural pathway that we are familiar with.
+- Our thooughrs rattle easily through the previously ingrainded patterns and settles on a solution
+- But when the problem changes a lot from this path than problem solving becomes difficult
+
+## Why math and science can be more challenging
+
+- 
 
 
 
