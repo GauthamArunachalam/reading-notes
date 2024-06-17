@@ -94,6 +94,14 @@
 
 - Problem solving in any discipling involved an exchange between the 2 fundamentally different modes. One mode will process the information it receives and then send the result to the other mode. The volleying of information back and forth as the brain works it way toward a conscious soltuon appears essential for understaning and solving all but trivial problems and concepts.
 
+## Procrastination Prelude
+
+- Many people do procrastination. When we procrastinate you are leaving yourself only little time to do superficial focused mode learning
+- We will also be increasing the stress levels because you knoe it is a impossible task to complete. **This leads to neural patterns that are faint and fragmented that disappers quickly**. Leaving you with a shaky foundation.
+
+# Learning is creating : Lessons from Thomas Edison's Frying pan
+
+
 
 
 # Vocabulary
