@@ -195,3 +195,5 @@
 - Search of never ending stimulation is often an attempt to hide our fear. If you find some disempowering thoughts write it down and reflect on it to find a solution.
 - Writing will help our mind declutter and brings in clarity.
 - **Dedicating some time every week to reflect on yourself can be great way to improve yourself**
+
+# Do your work
