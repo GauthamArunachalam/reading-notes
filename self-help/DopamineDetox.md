@@ -113,7 +113,7 @@
 - Always ask the question how fulfilling is those activity for you.
 - We should work on developing an inner sense of peace and a heightened state of focus. This will give us much more fulfillment in the long run.
 
-#### Trick 4: You're missing our
+#### Trick 4: You're missing out
 
 - Checking emails or news often gives us a feeling that we are in control of our environment. Most often we do not want to reply to the mails or news immediately.
 - This kind of thinking results from fear of missing out. And this fear reflects scarcity mindset.
@@ -197,3 +197,85 @@
 - **Dedicating some time every week to reflect on yourself can be great way to improve yourself**
 
 # Do your work
+
+- Main goal of dopamine detox is to reduce the level of stimulation and help us stay motivated to work on key tasks.
+
+## Plan your day
+
+- Being intentional with our is effective in boosting our productivity.
+- Planning our day reduces the risk of distractions.
+- The more intentional the better
+- Planning the day gives us clear idea about the important tasks. It gives us a mental roadmap for the day. We feel less distracted and more in control.
+
+### How to plan your day
+
+- Try to write down the list of tasks that you wish to finish for that day in the piece of paper
+- To find the important tasks question yourself. If you could complete only one task today, which one would have the greatest impact in your life?
+- The task you do must move the needle forward for you in your life.
+- We will understand the most important tasks are often the tasks we tend to do last because they are challenging or wre are unsure where to start.
+- Dopamine detox will help us makes these tasks easier to tackle.
+- Use the same method to set weekly, quarterly, monthly and yearly goals. Design long term goals. 
+- Using those long term goals reverse engineer and try to find which tasks will help you reach there to set your short term goals
+
+#### Action Step
+
+> Write down your goals in a sheet of paper to not get distracted from them
+
+## Schedule one major task to work on each morning
+
+- Identify your key task and tackle it first thing in the morning and do it consistently
+- Even though we have tons of to do there few tasks if we do that that will sky rocket our productivity.
+- **Focus** - is our ability to maintain your concentration and avoid distraction or procrastination while working on our tasks
+- **Consistency** - developing the habit of working on your key tasks every day, every week, every month and year.
+- **Impact** - Identifying our key tasks and working on them as soon as possible.
+
+> Productivity = Consistent focus on your most impactful tasks.
+
+## Develop laser sharp focus
+
+- To increase your productivity improving your focus is an important step
+
+### 1. be at the same place, at the same time every day
+
+- As said earlier following a routine helps our mind calm down and lower our stimulation.
+- To strengthen our routing be at the same place at the same time each day to tackle your most important tasks for that day.
+- This will greatly help you in increasing your focus.
+
+### 2. Choose a trigger
+
+- As we create a routine choose a specific trigger. It can be anything making tea, finishing mediating session.
+- This will clam our mind and after that we can start our work
+
+### 3. Get started
+
+- Once the routine and trigger are there start on your work.
+- Starting your work and spending few mins on it will build enough momentum to keep going. We might even feel the **flow**.
+- The more relaxed we are the easier it will be to focus.
+- Not to worry about completing the task our not feeling creative or motivated. Starting the task will generate motivation and stimulate creativity.
+
+> Flow : is a mental state in which you're so fully immersed in an activity that you become hyper-focused, while experiencing a sense of underlying enjoyment
+
+### 4. Eliminate distractions
+
+- Eliminate all the distractions before starting to work. Turn off the phone disconnect internet etc.,
+
+### 5. Work without interruptions
+
+- Try to work without any interruptions and try to work on a fixed block of time with full focus. take breaks and start the next work block.
+
+## Beware of open systems
+
+- Open systems are the biggest source of distractions
+- Open system is an application or a situation that provided you with continuous and never ending supply of external stimuli. Eg. of facebook, youtube
+- When we interact with a open system we risk ourself of being over stimulated. One we are overstimulated we find ourself struggling to work
+- We must try to design closed systems and try to start our day in a closed system
+- By closed system try to open only the required software for work and not any other software. Try not to checkout phone in the morning.
+- By starting your day in a closed system we can avoid overstimulation and work on challenging tasks.
+
+> Write down the open systems that open distract you and design a closed system you can implement to avoid that.
+
+# Avoiding Dopamine relapse
+
+## 1. Be aware when you start relapsing
+
+- 
