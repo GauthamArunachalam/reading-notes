@@ -38,9 +38,9 @@
 ## Dopamine neurotransmitters are being hijacked
 
 - Our focus is the most scarce asset, this is the reasons why companies spend billions to attract your attention. The more we spend time in social media and streaming apps the more they can generate revenue through adds. 
-- One of the greatest tools they have developed and use in the modern day is the notifications. Which increases our dopamine effect to check that.
+- One of the greatest tools they was developed and used in the modern day is the notifications. Which increases our dopamine effect to check the notification.
 - A best example of your brain being hijacked is notifications. Whenever we see a notification we anticipate a reward you'll receive when clicking on it, which triggers the release of dopamine in your brain.
-- The development of sophisticated algorithms to suggest content are not helping us it hooks us in a ever ending loop.
+- The development of sophisticated algorithms to suggest content are not helping us, it hooks us in a ever ending loop.
 - These things hijacks our focus and makes us unproductive and restless
 - There are many other activities that can hijack your brain visiting youtube, checking stock portfolio are some of them
 - They risk overstimulation and result in loosing your focus.
@@ -278,4 +278,37 @@
 
 ## 1. Be aware when you start relapsing
 
-- 
+- Self-awareness is the key to making lasting change.
+- When ever we struggle to focus on a task we must pause and take a moment to commit ourself back to do daily routine and th goals we have set for ourself.
+
+## 2. Understand the battle between you and your mind
+
+- When relapses happen the key is to accept it and avoid feeling guilty.
+- Simply restart the routine and handle one day at a time
+
+## 3. Understand the world is against you
+
+- In the current world our attention is the biggest source of income generator, this is the reason youtubers and influencer are trying to distract your and grab it.
+- Your attention is also source of income to you. If we focus our attention on our key and important tasks we can transform our life's radically and make more money.
+- We should build habits and systems to keep our focus on the important tasks.
+
+## 4. Prepare a contingency plan
+
+- An effective way to avoid relapsing is to create contingency plans.
+- Think of all the possible ways you can relapse and think of a contingency plan for the same.
+- Envision the worst cases in which you can relapse and think of how you can react in those cases to keep going in your daily routine.
+
+## 5. Put a sustainable system in place
+
+- Key to lowering higher level of stimulation is to implement a simple sustainable system. 
+- Its impossible to eliminate all the distractions but we should build a system to reduce it to regain our focus to work on our key tasks
+
+## 6. Cultivate the here-and-now neurotransmitters
+
+- endorphin, oxytocin or serotonin are the here and now neurotransmitters they are the opposite of dopamine. They help us to stay calm and in the present.
+- **Meditation** - Meditation is a best way be present in the moment
+- **Stretching** - Helps your relaxes your body and helps to stay calmer
+- **Mindfulness** - Being aware of whats going inside and around you. Eg. while concentrate on all the tastes, flavors and textures in the food.
+- **Contemplative walking** - While walking don't be stuck in your head be present and feel and look and hear your surroundings
+- **Deep social interactions** - Interacting with people can activate oxytocin which is also known as love hormone
+- **Boredom** - Practicing doing nothing is the best way to lower our level of stimulation. Eat in silence or walk with no specific destination.
