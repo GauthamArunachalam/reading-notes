@@ -34,11 +34,58 @@
     - The rate at which you compound - Its the rate at which your capital increases. For equity it is the growth of the earnings for bonds it is the percentage of interest we received.
     - The amount we are willing to commit every month - this will act as the growth fuel for your wealth creation
     - If one has 20 years of runway it is advised to invest 30% of their income.
+- While investing in bonds the interest from the bonds must be reinvested in equity or bond the investor should not consume this income as it stops wealth creation and compounding process.
+- Unit linked insurance policy is schema created by insurance companies as mutual funds industry got its wings in the early 2000's. In this scheme in first years investment 30% of amount is taken as agents commission and another part is taken as administrative charges. In a given year only 75 to 85% of the invested amount is actually deployed to the market making inferior returns. So it is better to say away from this.
+- A fund that is more than 65% of its capital is considered as equity fund and less than 65% is considered as debt fund.
+- **Successful investors are those who never interrupt the process of compounding.**
+- Once a investor reaches his financial goal it is prudent that he liquidates his investments and move to bonds or debt funds to protect his capital even thought he has to forgo some of his return percentage.
+- It is very difficult for anyone to predict the peek of the market. If you feel the market is at is high and correction is eminent we can shift our SIPs to short term liquid funds. If the corpus is substantial it is better to move some of that into fixed instrument and start a fresh SIP in the index fund.
+- If one feels there is a sharp correction in market once can temporary increase in SIP installments by reducing his other expenses till the market bounces back.
+- It is better to invest in existing funds than new funds for 2 reasons
+    - In existing funds we have track record of the fund and the fund manager. Its performance and investing style of the manager
+    - In new funds we do not have the track which makes it very difficult to track it.
+- It is better to invest stocks and mutual accounts in joint accounts as it creates visibility and can have access to both the partners. In case of single account in case tragedies it is tedious time consuming process to claim control over the assets.
 
+> A rule of thumb should be if the combined P/E of the market is less than 20 then it is a good time to invest in equity. If the P/E is greater than 22 its time to consider to move your SIP to debt funds.
 
+- We can invest in **hybrid P/E** ratio funds which invests in equity is the P/E is below the predetermined levels and changes its investment to debt it P/E moves over the value. In this type of funds investor does not get entire upside of the equity and also is not affected by downside of a falling market.
+
+## Multi asset fund
+
+- Multi asset funds are mutual funds that invest in multiple asset classes. Best eg. are balanced fund, hybrid P/E fund etc.,
+
+## Direct Vs Regular plans
+
+- In Direct plans the investor directly purchases the mutual fund from the AMC probably through a online medium hence it does not attract selling or distribution expense, so the expense ratio of this plan is low.
+- In Regular plans someone a individual or institution sells this product to for which they will be compensated by the AMC these charges are included in the direct plans expense ratio.
+
+## Thematic funds
+
+- A difference between a sectoral fund and thematic fund is that, in sectoral fund the fund manager cannot invest in any other company that is not part of the sector. But in thematic funds the manager as a bit of room to invest in different sectors associated with the theme. For eg. a infra themed fund can also invest in cement, pipes, steel etc.
+- This gives a edge for the thematic funds over sectoral funds as they have an edge if a sector is in a downward trend they can switch to different sectors associated to it but in sector funds they are stuck with the companies.
+- People with good knowledge about these sectors can invest in thematic funds.
+
+## Total index return
+
+- Total index return is an index that tracks the capital gains by the increase in price of the stock and also includes the dividends payed by the companies in the index.
+- In regular index only the capital gain from the price increase is considered.
+- One of the reason active funds cannot beat the index funds are, an active can hold only 10% of their corpus in a particular stock. Where as 40% of nifty 40 is consisted by the top 10 companies. This does not allow the active funds to have a concentrated portfolio of holding high growth potential companies.
+
+## Multi cap Vs Balanced fund
+
+- Multi cap funds are just equity funds with predetermined portions of corpus to be invested in large, mid and small cap funds.
+- Balanced funds can have any percentage of investment in any asset class.
 
 ## Liquid funds
 
 - For liquid funds held less than 3 years the investors income tax slab level gets applies. If the fund is held for more than 3 years Capital gains tax kicks in at 20% with indexation benefit.
 > **Indexation Benefit** - A certain amount of income is set aside for inflation adjustments. The indexation table is published by the gov every year.
+
+## Closed Funds
+
+- These are funds that does not collect capital after the initial fund offering. The collected money is invested in market.
+- It is mostly actively managed.
+- These funds are listed in a stock exchange and generally trade at a discount to its actual NAV value
+- The number of funds of these types are very less
+- In US value investors will buy the entire fund value when there is differential to its actual NAV and traded value and liquidate the fund to pocket its value.
 
