@@ -50,6 +50,10 @@
 
 - We can invest in **hybrid P/E** ratio funds which invests in equity is the P/E is below the predetermined levels and changes its investment to debt it P/E moves over the value. In this type of funds investor does not get entire upside of the equity and also is not affected by downside of a falling market.
 
+> Side Pocketing in Debt funds - When AMCs lend money to corporate and they default. The AMCs hope to recover those funds in the future. In the meantime an investor can sell his units and have no benefit from the recovery. To avoid such cases SEBI as ordered AMC to bundle the non performing assets into a new fund and allot units in that fund proportionate to their holdings in the original fund. Thus when recovery happens and the investor owns the newly created fund he can benefit from that.
+
+- If a mutual fund gives 40% return in a single year usually this can be due to excess liquidity in the market. There are high chances that the fund will under perform in the near future. It is difficult to maintain the same level of returns because money will chase performance as the AMU increases it is difficult to keep the same returns. In this case we can exit the fund and move the capital to a debt instrument and start a fresh SIP.
+
 ## Multi asset fund
 
 - Multi asset funds are mutual funds that invest in multiple asset classes. Best eg. are balanced fund, hybrid P/E fund etc.,
@@ -76,6 +80,13 @@
 - Multi cap funds are just equity funds with predetermined portions of corpus to be invested in large, mid and small cap funds.
 - Balanced funds can have any percentage of investment in any asset class.
 
+## Balanced fund
+
+- A fund that invest both in debt and equity in a predetermined ratio.
+- There are 3 different types of balanced fund. Aggressive , Hybrid P/E and defensive.
+- Aggressive funds have majority of capital invested in equity and 15 to 30% invested in debts. This is reversed in case of defensive funds
+- In Hybrid funds the ratio of debt and equity various based on the P/E of the market.
+
 ## Liquid funds
 
 - For liquid funds held less than 3 years the investors income tax slab level gets applies. If the fund is held for more than 3 years Capital gains tax kicks in at 20% with indexation benefit.
@@ -89,3 +100,23 @@
 - The number of funds of these types are very less
 - In US value investors will buy the entire fund value when there is differential to its actual NAV and traded value and liquidate the fund to pocket its value.
 
+## Card based funds
+
+- Liquid funds are competing with the savings bank to attract funds.
+- Liquid funds generate a return higher than a standard bank.
+- Some liquid funds have created a product that links the liquid fund to an ATM card which we can swipe at online purchases or ATMs. These cards act as a debit card. One must be very careful of such products and void them.
+
+## Identifying multi-baggers
+
+- Attractive valuation, growth visibility for the next ten-years horizon, little or no debt, owner holding and integrity are the key things to consider to identify a multi-bagger
+- Buying a great business with good outlook at a high valuation will not give us multi-baggers.
+- Growth horizon in both revenue and profit should clear for the next 10 years.
+- The business should have a natural moat.
+- Avoid companies with debt in the balance sheet.
+- Quality of promoter is key metric. Its better to avoid companies where promoters have a low stake.
+
+## Portfolio Management Services
+
+- Discretionary PMS - The fund manager invests the funds in assets of his wish without the investors consent
+- Non-Discretionary PMS - The fund manager only suggests the assets and the investor makes the final call.
+- They charge a entry load and standard management fee of 2 to 3% with a profit sharing arrangement.
