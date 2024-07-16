@@ -53,6 +53,9 @@
 > Side Pocketing in Debt funds - When AMCs lend money to corporate and they default. The AMCs hope to recover those funds in the future. In the meantime an investor can sell his units and have no benefit from the recovery. To avoid such cases SEBI as ordered AMC to bundle the non performing assets into a new fund and allot units in that fund proportionate to their holdings in the original fund. Thus when recovery happens and the investor owns the newly created fund he can benefit from that.
 
 - If a mutual fund gives 40% return in a single year usually this can be due to excess liquidity in the market. There are high chances that the fund will under perform in the near future. It is difficult to maintain the same level of returns because money will chase performance as the AMU increases it is difficult to keep the same returns. In this case we can exit the fund and move the capital to a debt instrument and start a fresh SIP.
+- One can invest surplus cash that are required in 3 to 6 months in short term liquid funds.
+
+> The first rule of investing is Capital preservation or as Buffet says "Never loose money"
 
 ## Multi asset fund
 
@@ -120,3 +123,7 @@
 - Discretionary PMS - The fund manager invests the funds in assets of his wish without the investors consent
 - Non-Discretionary PMS - The fund manager only suggests the assets and the investor makes the final call.
 - They charge a entry load and standard management fee of 2 to 3% with a profit sharing arrangement.
+
+## Turn over ratio
+
+- This tells the percentage of stocks that are sold and been replaced in a time period. The higher the turnover higher the transaction fees which leads to higher expense ratio. The lower turnover ratio means lower costs and a lower expense ratio
