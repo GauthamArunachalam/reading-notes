@@ -52,8 +52,8 @@
     - To truly be lazy, there can be nothing that depends on them.
     - Even when we config lazy but the application context reserves the right to ignore that.
 
-![Bean Lifecycle Phases img](./SpringFrameworkInDepth/bean_lifecycle_phase.png, "Bean Lifecycle Phases")
+![Bean Lifecycle Phases img](./SpringFrameworkInDepth/bean_lifecycle_phase.png "Bean Lifecycle Phases")
 
-![Spring Initialization Phase image](./SpringFrameworkInDepth/initialization_phase_overview.png, "Spring initialization phase overview")
+![Spring Initialization Phase image](./SpringFrameworkInDepth/initialization_phase_overview.png "Spring initialization phase overview")
 
 
