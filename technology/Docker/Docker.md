@@ -50,3 +50,48 @@
 - Docker uses these docker files to package the app into images.
 - Docker hub is a global repository of images that helps users to share their images quickly and easily
 - Docker CLI gives a easy interface to stat and manage the containers
+
+## Docker Machine
+
+- As docker uses control groups and namespaces which are primarily linux functionalities. Docker introduced docker machine to work resolve this issue so that docker can run in windows and mac
+- Docker machine used VirtualBox to create a small VM with linux that can be used to run docker.
+- This added the dependencies that developers need to learn VirtualBox to mount/unmount and exposing and connect ports
+
+## Docker Desktop
+
+- This runs a smaller and faster VM that runs on native hypervisor called Virtual Kit for Apple and Hyper-V for windows
+- Automatically handles volume mounting and unmounting and also handles network port mapping
+- Windows can run a real linux in windows from windows 10 Anniversary edition using **WSL 2** without virtualization
+
+## Docker Containers
+
+- Containers are created from container images. Container images are pre compressed and pre-packaged file system that contains our app and its configurations and env.
+- Docker images are just layers of images compressed together.
+- Docker creates an image for every command in our docker file these are called as intermediatory images. While the full build is completed it squashes all these images into a single image.
+
+
+## Ways of creating an container from an image
+
+- We can use docker container create and docker container start to create and start a container
+- Another short hand approach is to use docker container run which will have the same behavior along with attaching the terminal to the docker logs
+
+## Binding ports to container
+
+- Port bindings can be used to interact with the applications that the containers run from the host machine. For eg. if the container services a web application to see that in the browser we need to bind the port of the container in which the container serves the page with the port of the host so that we can see the web page in the browser.
+- To achieve this we can use -p flag with the pattern **"${host-port}:${container-port}"**
+
+## Saving data from the container
+
+- Everything that gets created inside the container stays within the container.
+- Once we stop the container the all the data will be lost.
+- To store the data even after the removing the container we should the volume mount feature.
+- This maps a folder in out host machine to a folder inside the container.
+- This follows the same pattern as **"${host-file-path}:${container-file-path}"** with the flag -v
+- we can also map file to files. Any non existing file path will be considered as an directory
+
+## Docker commands
+
+- Docker exec can be used to execute commands in one particular container terminals or commands on a specific container
+- docker stop - can be used to stop running containers. It usually takes a bit of time because its tries to gracefully stop the container. We can forcefully stop containers with the flag **-t 0**
+- docker rm can be used to remove containers. This generally removes only the stopped containers. To include all the running container we can use flag **-f**
+- docker rmi can be used to remove images.
