@@ -95,3 +95,36 @@
 - docker stop - can be used to stop running containers. It usually takes a bit of time because its tries to gracefully stop the container. We can forcefully stop containers with the flag **-t 0**
 - docker rm can be used to remove containers. This generally removes only the stopped containers. To include all the running container we can use flag **-f**
 - docker rmi can be used to remove images.
+
+## Docker compose
+
+- A application will usually have multiple dependent services and third party services that they interact with at the same time. This can even mean that these services need to be initialized in a specified order. These dependencies increases the complexity of local development as the user need to install, configure and run all these dependent components.
+- Docker compose is an independent tool developed to solve this, in simple terms it is an mark down language used to write the required services and configurations.
+- Docker compose can document system as a runnable configuration file.
+- Docker compose works on the basics of Configuration as code principle.
+- Docker compose was designed for a single hosted server that runs all its dependencies in itself.
+- It can also be well suited for
+    - Local dev
+    - Staging server
+    - CI/CD
+- Docker compose cannot be used in distributed system env and complex production env.
+
+- docker compose must be an yml file with the name "docker-compose"
+
+### Environment variables vs Build arguments
+
+- Env variables are values that are available inside a container which are required by the application while running
+- Build arguments are arguments that are required only at the runtime and not available at the container
+
+
+## Environment variables
+
+- Under the named service we can add environment and add the variables in a list format.
+- A env variable without any value will pass the host env variable value into the container
+
+## Profiles
+
+- Profiles can be used to run a subset of names services in a docker compose file.
+- We can configure profiles for each service in the services object in docker compose file
+- Adding no profile to a service will add that service to default and will run when all the time.
+- When we have cases like 2 different configurations to run and they have no overlap in this cases 2 docker files are suggested. eg. test and staging env.
